@@ -51,7 +51,7 @@
 
     <profiles>
         <profile>
-            <id>dev</id>
+            <id>docker-build</id>
             <activation>
                 <activeByDefault>false</activeByDefault>
             </activation>
